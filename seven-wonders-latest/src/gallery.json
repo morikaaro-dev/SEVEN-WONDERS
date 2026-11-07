@@ -1,0 +1,226 @@
+{
+  "wall": [
+    {
+      "src": "/images/wall-1.jpg",
+      "title": "Great Wall of China near Jinshanling",
+      "alt": "Great Wall of China — view 2",
+      "author": "Jakub Hałun",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "credit": "https://commons.wikimedia.org/wiki/File:20090529_Great_Wall_8185.jpg",
+      "position": "50% 50%"
+    },
+    {
+      "src": "/images/wall-2.jpg",
+      "title": "Great Wall of China near Jinshanling",
+      "alt": "Great Wall of China — view 3",
+      "author": "Jakub Hałun",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "credit": "https://commons.wikimedia.org/wiki/File:20090529_Great_Wall_8219.jpg",
+      "position": "50% 50%"
+    },
+    {
+      "src": "/images/wall-3.jpg",
+      "title": "Great Wall, China",
+      "alt": "Great Wall of China — view 4",
+      "author": "Craig Nagy (Frayed), Vancouver, Canada",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "credit": "https://commons.wikimedia.org/wiki/File:GreatWall6.jpg",
+      "position": "50% 50%"
+    }
+  ],
+  "petra": [
+    {
+      "src": "/images/petra-1.jpg",
+      "title": "Façade of the Deir (Monastery), Petra, Jordan.",
+      "alt": "Petra — view 2",
+      "author": "Michael Gunther",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "credit": "https://commons.wikimedia.org/wiki/File:Ad-Deir_(Monastery)_Petra_Jordan1459.jpg",
+      "position": "50% 50%"
+    },
+    {
+      "src": "/images/petra-2.jpg",
+      "title": "Al-Siq, Petra, Jordan",
+      "alt": "Petra — view 3",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "credit": "https://commons.wikimedia.org/wiki/File:Al-Siq,_Petra,_Jordan5.jpg",
+      "position": "50% 50%"
+    },
+    {
+      "src": "/images/petra-3.jpg",
+      "title": "09a Petra Monastery Trail  - The Treasury",
+      "alt": "Petra — view 4",
+      "author": "hikinginjordan",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "credit": "https://commons.wikimedia.org/wiki/File:09a_Petra_Monastery_Trail_-_The_Treasury_-_panoramio.jpg",
+      "position": "50% 50%"
+    }
+  ],
+  "christ": [
+    {
+      "src": "/images/christ-1.jpg",
+      "title": "Cultural propertyChrist the Redeemer,  Corcovado, Alto da Boa Vista, Tijuca, Grande Tijuca, Rio de Janeiro, BrazilQ79961,  GND ID: 4640727-3, Library of Congres",
+      "alt": "Christ the Redeemer — view 2",
+      "author": "Donatas Dabravolskas",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "https://commons.wikimedia.org/wiki/File:Unique_Moment_with_the_Moon_and_Christ_the_Redeemer_3.jpg",
+      "position": "50% 50%"
+    },
+    {
+      "src": "/images/christ-2.jpg",
+      "title": "Cristo Redentor, Rio de Janeiro, Brasil",
+      "alt": "Christ the Redeemer — view 3",
+      "author": "Arne Müseler",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "credit": "https://commons.wikimedia.org/wiki/File:Christ_the_Redeemer_-_Cristo_Redentor.jpg",
+      "position": "50% 50%"
+    },
+    {
+      "src": "/images/christ-3.jpg",
+      "title": "Statue Christ the Redeemer over the clouds",
+      "alt": "Christ the Redeemer — view 4",
+      "author": "Donatas Dabravolskas",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "https://commons.wikimedia.org/wiki/File:Redentor_Over_Clouds_1.jpg",
+      "position": "50% 50%"
+    }
+  ],
+  "machu": [
+    {
+      "src": "/images/machu-1.jpg",
+      "title": "Machu Picchu from Wayna Picchu",
+      "alt": "Machu Picchu — view 2",
+      "author": "Martin St-Amant (S23678)",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "credit": "https://commons.wikimedia.org/wiki/File:99_-_Machu_Picchu_-_Juin_2009.edit3.jpg",
+      "position": "50% 50%"
+    },
+    {
+      "src": "/images/machu-2.jpg",
+      "title": "On the left are the western agricultural terraces. Above them is the Sacred Plaza, with the Chief Temple and the three-windowed temple to the right of it. Above",
+      "alt": "Machu Picchu — view 3",
+      "author": "Hiram Bingham III",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+      "credit": "https://commons.wikimedia.org/wiki/File:Machu_Picchu.png",
+      "position": "50% 50%"
+    },
+    {
+      "src": "/images/machu-3.jpg",
+      "title": "The roofless buildings of the industrial zone, thought to be factories, sit like dinosuar backbones over the valley.",
+      "alt": "Machu Picchu — view 4",
+      "author": "McKay Savage from London, UK",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "https://commons.wikimedia.org/wiki/File:Peru_-_Machu_Picchu_100_-_stone_buildings_over_the_valley_(7368742346).jpg",
+      "position": "50% 50%"
+    }
+  ],
+  "chichen": [
+    {
+      "src": "/images/chichen-1.jpg",
+      "title": "El Castillo (pyramid of Kukulcán) in Chichén Itzá",
+      "alt": "Chichén Itzá — view 2",
+      "author": "Daniel Schwen",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "https://commons.wikimedia.org/wiki/File:Chichen_Itza_3.jpg",
+      "position": "50% 50%"
+    },
+    {
+      "src": "/images/chichen-2.jpg",
+      "title": "El Castillo (pyramidd of Kukulcán) in Chichén Itzá",
+      "alt": "Chichén Itzá — view 3",
+      "author": "Daniel Schwen",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "https://commons.wikimedia.org/wiki/File:Chichen_Itza_2.jpg",
+      "position": "50% 50%"
+    },
+    {
+      "src": "/images/chichen-3.jpg",
+      "title": "Castillo in Chichén Itzá",
+      "alt": "Chichén Itzá — view 4",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "https://commons.wikimedia.org/wiki/File:Templo_el_Castillo_-_Chichen_Itza-Yucatan-Mexico0222.jpg",
+      "position": "50% 50%"
+    }
+  ],
+  "colosseum": [
+    {
+      "src": "/images/colosseum-1.jpg",
+      "title": "Rome, Colosseum, 2018, panoramic photography",
+      "alt": "Colosseum — view 2",
+      "author": "Ermakae",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "credit": "https://commons.wikimedia.org/wiki/File:Colosseum_PANO_20180826_171027.jpg",
+      "position": "50% 50%"
+    },
+    {
+      "src": "/images/colosseum-2.jpg",
+      "title": "A 4×4 segment panorama of the Colosseum at dusk. Taken by myself with a Canon 5D and 50mm f/1.8 lens at f/5.6.",
+      "alt": "Colosseum — view 3",
+      "author": "Diliff",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "credit": "https://commons.wikimedia.org/wiki/File:Colosseum_in_Rome-April_2007-1-_copie_2B.jpg",
+      "position": "50% 50%"
+    },
+    {
+      "src": "/images/colosseum-3.jpg",
+      "title": "The Colosseum or Coliseum, also known as the Flavian Amphitheatre ( Italian: Anfiteatro Flavio or Colosseo) is an elliptical amphitheater in the center of the c",
+      "alt": "Colosseum — view 4",
+      "author": "Sam valadi",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "https://commons.wikimedia.org/wiki/File:Colosseum_-_Rome_-_Italy_(16800139540).jpg",
+      "position": "50% 50%"
+    }
+  ],
+  "taj": [
+    {
+      "src": "/images/taj-1.jpg",
+      "title": "This is a photo of ASI monument number",
+      "alt": "Taj Mahal — view 2",
+      "author": "Antrix3",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "https://commons.wikimedia.org/wiki/File:Aks_The_Reflection_Taj_Mahal.jpg",
+      "position": "50% 50%"
+    },
+    {
+      "src": "/images/taj-2.jpg",
+      "title": "Taj Mahal, Agra, India",
+      "alt": "Taj Mahal — view 3",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "https://commons.wikimedia.org/wiki/File:El_Taj_Mahal-Agra_India0030.JPG",
+      "position": "50% 50%"
+    },
+    {
+      "src": "/images/taj-3.jpg",
+      "title": "Taj Mahal, Agra, India",
+      "alt": "Taj Mahal — view 4",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "https://commons.wikimedia.org/wiki/File:El_Taj_Mahal-Agra_India0028.JPG",
+      "position": "50% 50%"
+    }
+  ]
+}

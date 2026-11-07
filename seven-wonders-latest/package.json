@@ -1,0 +1,28 @@
+{
+  "name": "seven-wonders-explorer",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "vite build --configLoader native",
+    "preview": "vite preview --host 127.0.0.1",
+    "test": "node --test --test-isolation=none tests/*.test.mjs",
+    "start": "node serve.mjs"
+  },
+  "dependencies": {
+    "react": "19.2.6",
+    "react-dom": "19.2.6",
+    "framer-motion": "14.1.0",
+    "lucide-react": "0.468.0"
+  },
+  "devDependencies": {
+    "vite": "6.4.4",
+    "tailwindcss": "4.3.3",
+    "@tailwindcss/vite": "https://registry.npmjs.org/@tailwindcss/vite/-/vite-4.3.3.tgz",
+    "typescript": "5.9.3"
+  },
+  "overrides": {
+    "rollup": "4.64.7"
+  }
+}
